@@ -1,5 +1,6 @@
 # Jackson Webster 
-# Module 8.2 Assignment - Movies Update and Delete
+# Module 8.2 Assignment 
+# 10/29/2025
 # This program connects to the movies database, displays films,
 # then performs insert, update, and delete operations.
 
